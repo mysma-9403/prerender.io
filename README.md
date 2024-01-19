@@ -1,2 +1,2 @@
 # prerender.io
-Files for prerender.io
+Easy middleware redirect bots to prerender.io
